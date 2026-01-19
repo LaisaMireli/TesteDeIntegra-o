@@ -29,3 +29,14 @@ O projeto foi dividido para garantir a separação de responsabilidades e testab
 1. Clone o repositório:
    ```bash
    git clone https://github.com/LaisaMireli/TesteDeIntegra-o.git
+   Entre na pasta:
+
+2. Entre na pasta
+
+cd LojaCompleta
+
+3. Execute a API:
+
+dotnet run --project Loja.Api
+
+(A API estará rodando em: http://localhost:5125)
